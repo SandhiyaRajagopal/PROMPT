@@ -1,4 +1,7 @@
 # EXPERIMENT-1
+# Name: SANDHIYA R
+# Date: 12/08/2025
+
 # Aim:	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 Experiment:
 Develop a comprehensive report for the following exercises:
